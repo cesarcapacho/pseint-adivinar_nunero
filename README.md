@@ -23,8 +23,7 @@ Escriba un numero del 1 al 100
 >> 57
 EL NUMERO ES MAYOR
 El numero secreto era 35
-
-
+```
 ---
 
 ## 🎯 Objetivos de Aprendizaje
